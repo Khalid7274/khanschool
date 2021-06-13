@@ -1,1 +1,5 @@
 This is simple testing from git to github
+There are three main commands like below:
+1. Git clone "URL" which used to make local repository based on remote repository
+2. git push (it worked to commit the modification and new files to git hub"
+3. git pull it means to 
